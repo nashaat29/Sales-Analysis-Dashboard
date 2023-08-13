@@ -10,6 +10,8 @@ Welcome to the Sales Analysis Dashboard repository! This project revolves around
 
 The dataset encompasses historical records spanning eight years, containing 1,000,000 rows and 13 columns. This comprehensive dataset serves as the cornerstone for our analysis, providing invaluable insights into the company's sales trends and patterns.
 
+Dataset from 'NiveditaSureshK' Project: https://github.com/NiveditaSureshK/Sales-Analysis-DB-MSExcel/blob/main/Sales%20Dataset.xlsm
+
 ## Data Transformation and ETL
 
 ![PowerQuery_SS](https://github.com/nashaat29/Google-Play-Store-EDA/assets/138555343/62935a59-c3a1-4691-88f0-4f27d92e6bf8)
